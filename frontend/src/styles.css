@@ -1,0 +1,5 @@
+body { font-family: 'Open Sans', sans-serif; margin:0; background:#f7f9fb; color:#2c3e50; }
+.dashboard { max-width:1100px; margin:24px auto; padding:16px; }
+.card { background:white; padding:12px; border-radius:10px; box-shadow: 0 6px 18px rgba(0,0,0,0.06); margin-bottom:12px; }
+header.app-header { display:flex; justify-content:space-between; align-items:center; margin-bottom:12px; }
+.summary-grid { display:grid; grid-template-columns: repeat(auto-fit, minmax(220px,1fr)); gap:12px; }
